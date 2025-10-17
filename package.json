@@ -1,0 +1,12 @@
+{
+  "name": "blogging-platform",
+  "version": "1.0.0",
+  "description": "A simple Node.js blogging platform demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

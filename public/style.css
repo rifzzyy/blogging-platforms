@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; margin:0; padding:0; background:#f9f9f9; }
+header { background:#333; color:#fff; padding:20px; text-align:center; }
+nav a { color:#fff; margin:0 10px; text-decoration:none; }
+.container { width:90%; max-width:800px; margin:20px auto; }
+.post { background:#fff; padding:15px; margin-bottom:15px; border-radius:5px; box-shadow:0 2px 5px rgba(0,0,0,0.1); }
+.post h2 { margin-top:0; }
+footer { text-align:center; padding:10px; background:#333; color:#fff; margin-top:20px; }
