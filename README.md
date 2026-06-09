@@ -1,4 +1,4 @@
-# Blogging Platform.
+# Blogging Platform
 This is a simple Node.js blogging platform demo using Express.js and static HTML/CSS.
 ## How to run
 1. Install dependencies: `npm install`
